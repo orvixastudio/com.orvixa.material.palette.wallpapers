@@ -1,0 +1,275 @@
+{
+  "apps": {
+    "status": true,
+    "featured_categories": "Mesh Gradients, Paper Cutout, Geometric Abstract, AMOLED Dark, Liquid Flow",
+    "show_wallpaper_name": true,
+    "show_wallpaper_category": true,
+    "show_favorite_button_in_wallpaper_list": true,
+    "enable_slider_wallpaper": false,
+    "enable_rtl_mode": false,
+    "enable_exit_dialog": true,
+    "enable_vpn_access": false,
+    "enable_dark_mode_as_default_theme": true,
+    "enable_more_apps": true,
+    "redirect_url": "",
+    "privacy_policy_url": ""
+  },
+  "ads": {
+    "mainAds": "admob",
+    "backupAds": "none",
+    "adStatus": true,
+    "interstitialInterval": 3,
+    "bannerStatus": true,
+    "interstitialStatus": true,
+    "nativeStatus": true,
+    "rewardedStatus": true,
+    "appOpenStatus": false,
+    "mainAdmobAppId": "ca-app-pub-4631404232937485~2345802163",
+    "mainAdManagerAppId": "0",
+    "mainStartappAppId": "0",
+    "mainUnityGameId": "0",
+    "mainIronsourceAppKey": "0",
+    "mainApplovinSdkKey": "0",
+    "mainBannerId": "ca-app-pub-4631404232937485/9810530079",
+    "mainInterstitialId": "ca-app-pub-4631404232937485/5931949100",
+    "mainNativeId": "ca-app-pub-4631404232937485/4618867438",
+    "mainRewardedId": "ca-app-pub-4631404232937485/3305785769",
+    "mainAppOpenId": "ca-app-pub-4631404232937485/4565942257",
+    "backupAdmobAppId": "0",
+    "backupAdManagerAppId": "0",
+    "backupStartappAppId": "0",
+    "backupUnityGameId": "0",
+    "backupIronsourceAppKey": "0",
+    "backupApplovinSdkKey": "0",
+    "backupBannerId": "0",
+    "backupInterstitialId": "0",
+    "backupNativeId": "0",
+    "backupRewardedId": "0",
+    "backupAppOpenId": "0"
+  },
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Mesh Gradients",
+      "category_image": "Mesh Gradients.jpg",
+      "prompt": "A square thumbnail image featuring a smooth, vibrant Material You mesh gradient blending warm coral red and soft peach colors. Clean, minimalist, high resolution."
+    },
+    {
+      "category_id": 2,
+      "category_name": "Paper Cutout",
+      "category_image": "Paper Cutout.jpg",
+      "prompt": "A square thumbnail image featuring layered abstract paper cutout art in Material Design 3 style. Vibrant overlapping colors with subtle drop shadows for a 3D depth effect."
+    },
+    {
+      "category_id": 3,
+      "category_name": "Geometric Abstract",
+      "category_image": "Geometric Abstract.jpg",
+      "prompt": "A square thumbnail image featuring minimalist overlapping geometric shapes, circles and rounded rectangles in pastel Material You colors. Flat design, clean vector look."
+    },
+    {
+      "category_id": 4,
+      "category_name": "AMOLED Dark",
+      "category_image": "AMOLED Dark.jpg",
+      "prompt": "A square thumbnail image featuring true black AMOLED background with subtle, glowing neon geometric accents in minimalist Material UI aesthetic."
+    },
+    {
+      "category_id": 5,
+      "category_name": "Liquid Flow",
+      "category_image": "Liquid Flow.jpg",
+      "prompt": "A square thumbnail image featuring smooth, abstract liquid flowing waves in dynamic Material palette colors. Soft lighting, smooth gradients, clean graphic style."
+    },
+    {
+      "category_id": 6,
+      "category_name": "Pastel Aesthetic",
+      "category_image": "Pastel Aesthetic.jpg",
+      "prompt": "A square thumbnail image featuring ultra-soft pastel colored abstract background, minimalist Material You design, soothing visual aesthetic."
+    },
+    {
+      "category_id": 7,
+      "category_name": "Glassmorphism",
+      "category_image": "Glassmorphism.jpg",
+      "prompt": "A square thumbnail image featuring frosted glass layers over a vibrant mesh gradient background. Clean modern UI design aesthetic, subtle blur effects."
+    },
+    {
+      "category_id": 8,
+      "category_name": "Topography",
+      "category_image": "Topography.jpg",
+      "prompt": "A square thumbnail image featuring smooth contour topographic lines in minimalist Material color themes. Modern digital vector art style."
+    },
+    {
+      "category_id": 9,
+      "category_name": "Neumorphism",
+      "category_image": "Neumorphism.jpg",
+      "prompt": "A square thumbnail image featuring soft extruded neumorphic UI shapes on a light grey background. Minimalist 3D depth, smooth tactile surfaces."
+    },
+    {
+      "category_id": 10,
+      "category_name": "Dynamic Waves",
+      "category_image": "Dynamic Waves.jpg",
+      "prompt": "A square thumbnail image featuring dynamic, sweeping vector waves in bold Material You dynamic colors. High contrast, clean minimalist art."
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "category_name": "Mesh Gradients",
+      "wallpaper_name": "Sunrise Glow",
+      "wallpaper_thumbnail": "Sunrise Glow.jpg",
+      "wallpaper_url": "Sunrise Glow.jpg",
+      "prompt": "A stunning 4K mobile wallpaper (9:16 aspect ratio) featuring a smooth Material You mesh gradient. The color palette blends warm sunrise colors: vibrant coral red, soft peach, and golden yellow. Modern, minimalist UI aesthetic, completely abstract, seamless color transitions, soft lighting, no text, no logos, clean high-resolution digital art."
+    },
+    {
+      "wallpaper_id": 2,
+      "category_name": "Paper Cutout",
+      "wallpaper_name": "Wavy Topography",
+      "wallpaper_thumbnail": "Wavy Topography.jpg?target=rewarded",
+      "wallpaper_url": "Wavy Topography.jpg?target=rewarded",
+      "prompt": "A beautiful 9:16 mobile wallpaper featuring abstract 3D paper cutout art. Sweeping, layered wavy shapes cascading diagonally. Inspired by Google Material Design. Colors: soft pink, mustard yellow, and sky blue. Realistic drop shadows creating a deep sense of tactility and depth. Clean vector edges, no text."
+    },
+    {
+      "wallpaper_id": 3,
+      "category_name": "Geometric Abstract",
+      "wallpaper_name": "Intersecting Orbs",
+      "wallpaper_thumbnail": "Intersecting Orbs.jpg",
+      "wallpaper_url": "Intersecting Orbs.jpg",
+      "prompt": "Minimalist geometric mobile wallpaper, 9:16. Large abstract intersecting circles in Material You dynamic colors: pastel blue and soft mustard yellow. Where the shapes overlap, a darker blend color is created. Clean solid white background, flat vector design, highly aesthetic, no text."
+    },
+    {
+      "wallpaper_id": 4,
+      "category_name": "AMOLED Dark",
+      "wallpaper_name": "Neon Edge",
+      "wallpaper_thumbnail": "Neon Edge.jpg?target=rewarded",
+      "wallpaper_url": "Neon Edge.jpg?target=rewarded",
+      "prompt": "True black AMOLED mobile wallpaper, 9:16 aspect ratio. Pitch black #000000 background with a single, sweeping, elegant abstract neon blue line flowing through the center. Minimalist Material Design, perfect for battery saving, high contrast, clean and sharp, no text."
+    },
+    {
+      "wallpaper_id": 5,
+      "category_name": "Liquid Flow",
+      "wallpaper_name": "Molten Gold",
+      "wallpaper_thumbnail": "Molten Gold.jpg",
+      "wallpaper_url": "Molten Gold.jpg",
+      "prompt": "A gorgeous 9:16 mobile wallpaper featuring abstract flowing liquid shapes. Smooth, silky texture resembling molten fluid. Material Design color palette: rich golden yellow and vibrant orange. Seamless gradients, soft reflections, minimalist UI background, 8k."
+    },
+    {
+      "wallpaper_id": 6,
+      "category_name": "Pastel Aesthetic",
+      "wallpaper_name": "Soft Cotton",
+      "wallpaper_thumbnail": "Soft Cotton.jpg?target=rewarded",
+      "wallpaper_url": "Soft Cotton.jpg?target=rewarded",
+      "prompt": "Ultra-minimalist pastel aesthetic mobile wallpaper, 9:16. Soft, blurry mesh gradient using baby pink and pale pastel blue. Ethereal, dreamy, soothing visual, Material Design soft theme, extremely clean, perfect negative space, high definition 8k."
+    },
+    {
+      "wallpaper_id": 7,
+      "category_name": "Glassmorphism",
+      "wallpaper_name": "Frosted Orbs",
+      "wallpaper_thumbnail": "Frosted Orbs.jpg",
+      "wallpaper_url": "Frosted Orbs.jpg",
+      "prompt": "Glassmorphism mobile wallpaper, 9:16 ratio. Abstract translucent frosted glass spheres floating over a vibrant, colorful Material You mesh gradient background (pink and blue). High quality blur effect inside the glass, crisp edges, modern UI/UX graphic style."
+    },
+    {
+      "wallpaper_id": 8,
+      "category_name": "Topography",
+      "wallpaper_name": "Neon Contours",
+      "wallpaper_thumbnail": "Neon Contours.jpg?target=rewarded",
+      "wallpaper_url": "Neon Contours.jpg?target=rewarded",
+      "prompt": "Topographic map mobile wallpaper, 9:16. Dark AMOELD background with thin, precise, glowing neon cyan contour lines. Abstract landscape elevation map. Minimalist technical aesthetic, sharp vector graphics, perfect for dark mode."
+    },
+    {
+      "wallpaper_id": 9,
+      "category_name": "Neumorphism",
+      "wallpaper_name": "Soft UI Elements",
+      "wallpaper_thumbnail": "Soft UI Elements.jpg",
+      "wallpaper_url": "Soft UI Elements.jpg",
+      "prompt": "Neumorphic mobile wallpaper, 9:16. Soft, tactile, extruded geometric shapes (circles and rounded squares) on a monochromatic off-white background. The shapes are created entirely by soft highlights and drop shadows, blending seamlessly into the background. Minimalist."
+    },
+    {
+      "wallpaper_id": 10,
+      "category_name": "Dynamic Waves",
+      "wallpaper_name": "Color Explosion",
+      "wallpaper_thumbnail": "Color Explosion.jpg?target=rewarded",
+      "wallpaper_url": "Color Explosion.jpg?target=rewarded",
+      "prompt": "A vibrant and bold 9:16 mobile wallpaper. Sweeping, overlapping abstract vector waves in highly saturated Material Design colors: bright yellow, vivid magenta, cyan, and deep purple. High contrast, clean solid vector edges, modern dynamic aesthetic."
+    },
+    {
+      "wallpaper_id": 11,
+      "category_name": "Mesh Gradients",
+      "wallpaper_name": "Ocean Breeze",
+      "wallpaper_thumbnail": "Ocean Breeze.jpg",
+      "wallpaper_url": "Ocean Breeze.jpg",
+      "prompt": "An ultra-clean mobile wallpaper, 9:16 aspect ratio. Smooth abstract mesh gradient in Material Design 3 style. Colors transition flawlessly between deep ocean blue, vivid teal, and soft cyan. Perfect for dynamic color extraction, minimalist, no UI elements, 8k resolution, flat graphic aesthetic."
+    },
+    {
+      "wallpaper_id": 12,
+      "category_name": "Paper Cutout",
+      "wallpaper_name": "Canyon Layers",
+      "wallpaper_thumbnail": "Canyon Layers.jpg?target=rewarded",
+      "wallpaper_url": "Canyon Layers.jpg?target=rewarded",
+      "prompt": "Abstract paper craft mobile background, 9:16 aspect ratio. Layered undulating vector shapes resembling a canyon. Material You palette: deep terracotta, burnt orange, pale sand, and warm yellow. Micro-3D shadows between layers. Flawless minimalist graphic design, pure abstract, 8k resolution."
+    },
+    {
+      "wallpaper_id": 13,
+      "category_name": "Geometric Abstract",
+      "wallpaper_name": "Bauhaus Blocks",
+      "wallpaper_thumbnail": "Bauhaus Blocks.jpg",
+      "wallpaper_url": "Bauhaus Blocks.jpg",
+      "prompt": "Abstract smartphone wallpaper in 9:16. Bauhaus inspired minimalist layout using Material Design principles. Overlapping solid vector shapes: rounded rectangles, half-circles, and squares. Palette: muted red, slate grey, and pale blue. Off-white background, extremely clean lines, professional UI graphic."
+    },
+    {
+      "wallpaper_id": 14,
+      "category_name": "AMOLED Dark",
+      "wallpaper_name": "Obsidian Flow",
+      "wallpaper_thumbnail": "Obsidian Flow.jpg?target=rewarded",
+      "wallpaper_url": "Obsidian Flow.jpg?target=rewarded",
+      "prompt": "Premium dark mode wallpaper for smartphones, 9:16. Deep abstract wavy shapes in dark grey and charcoal on a pure black AMOLED background. Very subtle deep purple rim lighting on the edges of the dark shapes. Elegant, stealthy, minimalist 3D material aesthetic."
+    },
+    {
+      "wallpaper_id": 15,
+      "category_name": "Liquid Flow",
+      "wallpaper_name": "Silky Violet",
+      "wallpaper_thumbnail": "Silky Violet.jpg",
+      "wallpaper_url": "Silky Violet.jpg",
+      "prompt": "Abstract liquid flow smartphone wallpaper, 9:16. Elegant, smooth ribbon-like fluid waves cascading downwards. Dynamic Material palette: deep violet, soft magenta, and lilac. Clean vector-like gradients, minimalist composition, no messy details, perfect for app icons to sit on."
+    },
+    {
+      "wallpaper_id": 16,
+      "category_name": "Pastel Aesthetic",
+      "wallpaper_name": "Minty Fresh",
+      "wallpaper_thumbnail": "Minty Fresh.jpg?target=rewarded",
+      "wallpaper_url": "Minty Fresh.jpg?target=rewarded",
+      "prompt": "A calming 9:16 smartphone wallpaper. Minimalist geometric vector design featuring large, soft pastel shapes. Colors: pale mint green, soft cream, and off-white. Flat UI design, Material You palette, clean crisp edges, relaxing aesthetic."
+    },
+    {
+      "wallpaper_id": 17,
+      "category_name": "Glassmorphism",
+      "wallpaper_name": "Glass Cards",
+      "wallpaper_thumbnail": "Glass Cards.jpg",
+      "wallpaper_url": "Glass Cards.jpg",
+      "prompt": "A modern 9:16 smartphone wallpaper featuring sleek glassmorphism. Rounded rectangular translucent 'glass' cards layered diagonally over a soft pastel green and yellow abstract background. Realistic frosted blur, subtle white specular highlights on the glass edges, minimalist."
+    },
+    {
+      "wallpaper_id": 18,
+      "category_name": "Topography",
+      "wallpaper_name": "Pastel Elevations",
+      "wallpaper_thumbnail": "Pastel Elevations.jpg?target=rewarded",
+      "wallpaper_url": "Pastel Elevations.jpg?target=rewarded",
+      "prompt": "Soft topographic wallpaper in 9:16 ratio. Smooth contour lines mimicking a landscape, but styled in pastel Material You colors. Soft blush pink, pale yellow, and mint green filling the spaces between the contour lines. Clean, flat vector design, highly detailed."
+    },
+    {
+      "wallpaper_id": 19,
+      "category_name": "Neumorphism",
+      "wallpaper_name": "Dark Neumorph",
+      "wallpaper_thumbnail": "Dark Neumorph.jpg",
+      "wallpaper_url": "Dark Neumorph.jpg",
+      "prompt": "Dark mode neumorphism wallpaper, 9:16 ratio. Smooth matte dark grey background with abstract, indented and extruded minimalist shapes. Realistic soft 3D lighting and shadows characteristic of neumorphic UI design. Highly elegant, clean, and stealthy."
+    },
+    {
+      "wallpaper_id": 20,
+      "category_name": "Dynamic Waves",
+      "wallpaper_name": "Sweeping Slashes",
+      "wallpaper_thumbnail": "Sweeping Slashes.jpg?target=rewarded",
+      "wallpaper_url": "Sweeping Slashes.jpg?target=rewarded",
+      "prompt": "Dynamic abstract wallpaper for smartphones, 9:16. Clean, diagonal sweeping wave-like shapes cutting across the screen. Material You color palette with deep orange, terracotta, and soft teal. Flat design with very subtle drop shadows. energetic composition, 8k."
+    }
+  ],
+  "more_apps": []
+}
