@@ -512,6 +512,17 @@
       }
    ],
    "more_apps":[
-      
+       {
+         "id": 1,
+         "title": "Miami Urban Wallpapers 4K",
+         "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.miami.urban.wallpapers@main/ic_launcher.png",
+         "url": "https://play.google.com/store/apps/details?id=com.orvixa.miami.urban.wallpapers"
+       },
+       {
+         "id": 2,
+         "title": "Retro Y2K Aesthetic Wallpaper",
+         "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.y2kwallpaper@main/ic_launcher.png",
+         "url": "https://play.google.com/store/apps/details?id=com.orvixa.y2kwallpaper"
+       }
    ]
 }
